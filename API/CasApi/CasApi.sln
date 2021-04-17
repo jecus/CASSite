@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CasApi", "CasApi\CasApi.csproj", "{C2AB0334-DB10-40CE-9B0F-B390AE32324D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{5D6C1221-8F59-41D7-8E5F-E33F25E44DF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2AB0334-DB10-40CE-9B0F-B390AE32324D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2AB0334-DB10-40CE-9B0F-B390AE32324D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2AB0334-DB10-40CE-9B0F-B390AE32324D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2AB0334-DB10-40CE-9B0F-B390AE32324D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6C1221-8F59-41D7-8E5F-E33F25E44DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6C1221-8F59-41D7-8E5F-E33F25E44DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6C1221-8F59-41D7-8E5F-E33F25E44DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6C1221-8F59-41D7-8E5F-E33F25E44DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
