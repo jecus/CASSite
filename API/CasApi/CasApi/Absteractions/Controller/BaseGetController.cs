@@ -47,7 +47,7 @@ namespace CasApi.Absteractions.Controller
         /// <param name="filter"></param>
         /// <returns></returns>
         [ProducesResponseType(StatusCodes.Status200OK)]
-        [HttpGet]
+        [HttpPost]
         public virtual async Task<ActionResult<List<TEntity>>> GetAll([FromBody] DataSourceRequest request)
         {
             var res = _db.Set<TEntity>()
